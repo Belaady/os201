@@ -1,8 +1,7 @@
 ## SintaBela's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Belaady/os201/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
