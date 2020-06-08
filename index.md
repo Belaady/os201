@@ -1,6 +1,7 @@
 ## SintaBela's GitHub Pages
 
 <img src="me.jpg" width="250" height="250" align>
+
 I am Sinta Bela, a University of Indonesia student at the Faculty of Computer Science majoring in Information Systems.
 
 
