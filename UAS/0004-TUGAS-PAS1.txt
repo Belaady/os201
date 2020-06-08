@@ -1,0 +1,37 @@
+Script started on Mon 08 Jun 2020 06:41:36 PM WIB
+sinta.bela@badak:~$ PS1="$ "
+$ echo $GitHubUser
+Belaady
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200608-184315-ea1d-sinta.bela/>
+$ PS1="\$(eval \$PSTAMP)"
+200608-184331-cf86-sinta.bela/> echo -e $CEKSAYA
+Belaady ZCZCSCRIPTSTART 200531-224914 Belaady
+Belaady Belaady 200531-225011-6adb-sinta.bela/ 200531-225011 SEQOK SUMOK 6adb5706
+Belaady Belaady 200531-225034-6e0e-sinta.bela/ 200531-225034 SEQOK SUMOK 6e0e3113
+Belaady Belaady 200531-225038-af7f-sinta.bela/ 200531-225038 SEQOK SUMOK af7fffea
+Belaady Belaady 200531-225115-6b44-sinta.bela/ 200531-225115 SEQOK SUMOK 6b44da45
+Belaady ZCZCSCRIPTSTOP 200531-225130 SEQOK
+
+200608-184338-e0ee-sinta.bela/> echo -e $CEKSEBELA1
+Belaady ZCZCSCRIPTSTART 200606-212812 billhsyn
+Belaady billhsyn 200606-212812-9733-raden.salsabilla/ 200606-212812 SEQOK SUMOK 9733d009
+Belaady billhsyn 200606-212823-3c6d-raden.salsabilla/ 200606-212823 SEQOK SUMOK 3c6df0d8
+Belaady billhsyn 200606-212825-3dec-raden.salsabilla/ 200606-212825 SEQOK SUMOK 3dece21f
+Belaady billhsyn 200606-212839-95d2-raden.salsabilla/ 200606-212839 SEQOK SUMOK 95d21499
+Belaady ZCZCSCRIPTSTOP 200606-212908 SEQOK
+
+200608-184404-48df-sinta.bela/> echo -e $CEKSEBELA2
+Belaady ZCZCSCRIPTSTART 200531-212424 chelmel18
+Belaady chelmel18 200531-212503-d102-michelle.melissa/ 200531-212503 SEQOK SUMOK d1025eb5
+Belaady chelmel18 200531-212520-0812-michelle.melissa/ 200531-212520 SEQOK SUMOK 08122760
+Belaady chelmel18 200531-212527-9a4b-michelle.melissa/ 200531-212527 SEQOK SUMOK 9a4ba0f0
+Belaady chelmel18 200531-212554-fb1c-michelle.melissa/ 200531-212554 SEQOK SUMOK fb1ccaf6
+Belaady ZCZCSCRIPTSTOP 200531-212608 SEQOK
+
+200608-184410-01b9-sinta.bela/> exit
+exit
+
+Script done on Mon 08 Jun 2020 06:44:23 PM WIB
